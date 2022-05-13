@@ -1,0 +1,4 @@
+To install the toolbox,
+just add the MemToolbox folder and all of thesubfolders to your path. 
+Or
+Setup.m in the is MemToolbox folder designed to do this for you.

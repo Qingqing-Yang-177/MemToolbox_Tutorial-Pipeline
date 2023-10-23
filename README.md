@@ -15,14 +15,13 @@ ______________________________
 - **MemToolbox**: Memtoolbox package from https://github.com/visionlab/MemToolbox
 - **paper.pdf**: a high-level overview of the toolbox from visionlab
 - **tutorial.pdf**: a useful walkthrough tutorial of Memtoolbox from visionlab
-
+  
   _my contributions:_
 - **T1_Setup**: Install and Setup;
 - **T2_Modeling**: Basic Modeling with Continuous data, 2AFC, Orientation data, MultiSetsizes, Model comparison
 - **T3_Compare Parameters**: Fit multi subjects/datasets as one pop, or comparing the params btw setsizes/conditions/datasets.
 - **T4_Model Fitting**: Compare and fit model by log likelihood, AIC, AICc, BIC, Bayes factor (and posterior odds) and DIC.
-- **Memtoolbox tutorial present.ppt**: A tutorial presentation in Curtislab lab meeting (https://www.clayspacelab.com/lab)
-
+- **tutorial_slides.pdf**: A tutorial presentation in Curtislab lab meeting (https://www.clayspacelab.com/lab)
 
 Dependencies:
 1. The Statistics Toolbox (http://www.mathworks.com/products/statistics/) is needed for all of the major functionality of the toolbox.
